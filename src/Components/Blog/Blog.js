@@ -6,7 +6,7 @@ const Blog = () => {
         <div className='blog-container'>
             <div>
                 <h3>How React Works?</h3>
-                <p>React is a JavaScript library that uses declarative programming to construct efficient user interfaces.
+                <p>Ra JavaScript library that uses declarative programming to construct efficient user interfaces.
                     Using React, we can create single-page applications and mobile apps.
                     React uses virtual DOM, which is a JavaScript version of a DOM tree.
                     As a result, it will use the virtual representation of the DOM when reading or writing to it.
