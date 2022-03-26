@@ -1,0 +1,56 @@
+[
+  {
+    "id": "100",
+    "name": "Laptop",
+    "price": 60000,
+    "img": "https://i.ibb.co/Z60h162/laptop.jpg"
+  },
+  {
+    "id": "101",
+    "name": "iPhone",
+    "price": 110000,
+    "img": "https://i.ibb.co/23gz5z6/iphone-13-pro.jpg"
+  },
+  {
+    "id": "102",
+    "name": "Smart-Tv",
+    "price": 30000,
+    "img": "https://i.ibb.co/wRBkgbv/smart-tv.jpg"
+  },
+  {
+    "id": "103",
+    "name": "Smart-Watch",
+    "price": 3000,
+    "img": "https://i.ibb.co/njLr5t9/smart-watch.jpg"
+  },
+  {
+    "id": "104",
+    "name": "tablet",
+    "price": 25000,
+    "img": "https://i.ibb.co/bWpHvsf/tablet.jpg"
+  },
+  {
+    "id": "105",
+    "name": "Keyboard",
+    "price": 2000,
+    "img": "https://i.ibb.co/sJXdhHx/keyboard.jpg"
+  },
+  {
+    "id": "106",
+    "name": "Mouse",
+    "price": 1200,
+    "img": "https://i.ibb.co/ynd7LfG/mouse.jpg"
+  },
+  {
+    "id": "107",
+    "name": "Fan",
+    "price": 2700,
+    "img": "https://i.ibb.co/1LvPMbQ/fan.jpg"
+  },
+  {
+    "id": "108",
+    "name": "Air-Condition",
+    "price": 35000,
+    "img": "https://i.ibb.co/TqVkjV3/air-condition.jpg"
+  }
+]

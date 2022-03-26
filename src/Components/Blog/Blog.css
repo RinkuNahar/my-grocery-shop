@@ -1,0 +1,12 @@
+.blog-container{
+    margin-left: 45px;
+    margin-bottom: 50px;
+}
+.blog-container h3{
+    font-size: 28px;
+    text-align: center;
+}
+.blog-container p {
+    font-size: 18px;
+
+}

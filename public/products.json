@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "img": "https://img.freepik.com/free-photo/raw-meat_144627-33840.jpg?w=996&t=st=1648226196~exp=1648226796~hmac=08ab44a111cccada5f882dbff50122b3fccec00be4f54ecb375ddc6d17699ad4",
+    "name": "Meat",
+    "price": 500
+  },
+  {
+    "id": "2",
+    "img": "https://img.freepik.com/free-photo/different-types-bread-made-from-wheat-flour_140725-5648.jpg?t=st=1648226266~exp=1648226866~hmac=548988e8c0a0da5fa12569a9d1796a6b08b9476142ad6e5a4cbdadfb685544a1&w=1060",
+    "name": "Bread",
+    "price": 100
+  },
+  {
+    "id": "3",
+    "img": "https://img.freepik.com/free-vector/realistic-ftuiys-juice-splash-burst-composition-with-spray-images-ripe-tropical-fruits-blank_1284-29364.jpg?t=st=1648224326~exp=1648224926~hmac=17b625c969263ea6fd05652bb578324663316d8b2466abb11875586c8fd006e0&w=360",
+    "name": "Juice",
+    "price": 50
+  },
+  {
+    "id": "4",
+    "img": "https://img.freepik.com/free-photo/milled-rice-bowl-wooden-spoon-black-cement-floor_1150-20054.jpg?t=st=1648224820~exp=1648225420~hmac=43a5fb22f2fa16a2a123e4a4c5d0170c46ef987755b0cfa3ba21bb8cb4dcd344&w=996",
+    "name": "Rice",
+    "price": 200
+  },
+  {
+    "id": "5",
+    "img": "https://img.freepik.com/free-photo/whole-salmon-isolated-white_95419-4457.jpg?w=996",
+    "name": "Fish",
+    "price": 150
+  },
+  {
+    "id": "6",
+    "img": "https://img.freepik.com/free-photo/lentils-wooden-background-macro-shot_120872-32556.jpg?w=740",
+    "name": "Lentils",
+    "price": 30
+  },
+  {
+    "id": "7",
+    "img": "https://img.freepik.com/free-photo/colorful-fruits-tasty-fresh-ripe-juicy-white-desk_179666-169.jpg?t=st=1648226580~exp=1648227180~hmac=b34df2b05bd8839bd51e9fb1da0902eddf0930b44b39bdb584961df49e3ac045&w=996",
+    "name": "Fruits",
+    "price": 285
+  },
+  {
+    "id": "8",
+    "img": "https://img.freepik.com/free-photo/potato-sack-isolated-white_1150-6160.jpg?t=st=1648226640~exp=1648227240~hmac=797fdf05c14114e34003553b4ce4f12a61e9a9a0badc3588501dfb3559ff7d2d&w=996",
+    "name": "Potato",
+    "price": 20
+  },
+  {
+    "id": "9",
+    "img": "https://img.freepik.com/free-photo/delicious-cookies_144627-21569.jpg?t=st=1648226697~exp=1648227297~hmac=5fdbeeac4a03065bf3648dc62788da77169bee24018a45ebd990c0b741967c47&w=996",
+    "name": "Biscuits",
+    "price": 25
+  }
+]
