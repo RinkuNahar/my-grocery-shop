@@ -29,6 +29,8 @@
 }
 .add-btn h4{
     margin-right: 5px;
+    padding-top: 10px;
+    height: 45px;
 }
 .add-btn:hover{
     background-color:orange;
